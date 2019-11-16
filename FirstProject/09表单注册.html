@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>百度注册</title>
+</head>
+<body>
+<div>
+    <form action="http://www.baidu.com" method="get">
+        <p>
+            <label for="user">用户名</label>
+            <input type="text" name="username" id="user" placeholder="请设置用户名">
+        </p>
+        <p>
+            <label for="phone_number">手机号</label>
+            <input type="number" name="phone_number" id="phone_number" placeholder="用于登录和找回密码">
+        </p>
+        <p>
+            <label for="password">密&nbsp;&nbsp;&nbsp;码</label>
+            <input type="password" id="password" name="password" placeholder="请输入密码">
+        </p>
+        <p>
+            <label for="check_number">验证码</label>
+            <input id="check_number" type="number" name="check_number" placeholder="请输入验证码">
+            <input type="button" name="btn" value="获取短信验证码">
+        </p>
+        <p>
+            <input type="radio" value="阅读并接受">阅读并接受
+            <a href="#">《百度用户协议》</a>
+            <a href="#">《百度隐私权保护声明》</a>
+        </p>
+    </form>
+    <div>
+        <p>
+            <input type="submit" value="注册" style="height: 50px ; width: 200px" >
+        </p>
+    </div>
+</div>
+</body>
+</html>
