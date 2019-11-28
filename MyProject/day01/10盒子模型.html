@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>盒子模型</title>
+    <style type="text/css">
+        * {
+            margin: 0px;
+        }
+
+        .item {
+            width: 500px;
+            height: 500px;
+            float: left;
+            background: url(resource/book.jpg);
+            background-repeat: no-repeat;
+            margin: 40px;
+        }
+
+        #box {
+            width: 79%;
+            overflow: auto;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="box">
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+</div>
+</body>
+</html>
