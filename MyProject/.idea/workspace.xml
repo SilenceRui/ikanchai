@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7a1f93-863e-4adf-8834-fad2ff7f75a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/.idea/BusinessProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/DropletService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/._nav10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/10w_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/10w_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/30w_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/30w_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/50w_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/50w_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/banner5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/gr_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/gr_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/gr_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/gr_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/index9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/jt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/nav51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BusinessProject/Resource/process.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MyProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/01每日一文.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/02健康比金钱更重要.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/03导航条.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/04新闻列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/05文本属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/06背景图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/07文字环绕.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/08横向排版.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/09聊天.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/10盒子模型.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/11边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/12布局练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/resource/baby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/resource/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/resource/health.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/resource/wen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/resource/举个例子.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09CSS3/01过渡动画基本使用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/06TableDemo.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/02数据类型转换.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -87,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day09CSS3/01过渡动画基本使用.html">
+        <entry file="file://$PROJECT_DIR$/day12/01js声明.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="286">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -100,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -128,6 +59,9 @@
         <option value="$PROJECT_DIR$/day05/css/dice.css" />
         <option value="$PROJECT_DIR$/day09/01过渡动画基本使用.html" />
         <option value="$PROJECT_DIR$/day09CSS3/01过渡动画基本使用.html" />
+        <option value="$PROJECT_DIR$/day12/01js声明.html" />
+        <option value="$PROJECT_DIR$/day12/02数据类型转换.js" />
+        <option value="$PROJECT_DIR$/day12/02数据类型转换.html" />
       </list>
     </option>
   </component>
@@ -190,6 +124,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="02数据类型转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="02数据类型转换.js" working-dir="$PROJECT_DIR$/day12">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.02数据类型转换.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,11 +150,22 @@
       <workItem from="1573963932888" duration="440000" />
       <workItem from="1574341279690" duration="345000" />
       <workItem from="1574644497956" duration="1264000" />
+      <workItem from="1574918376470" duration="1009000" />
+      <workItem from="1574945518323" duration="43000" />
+      <workItem from="1576389715670" duration="23000" />
     </task>
+    <task id="LOCAL-00001" summary="最近学习CSS和CSS3">
+      <created>1574918527143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574918527143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26121000" />
+    <option name="totallyTimeSpent" value="27196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -239,7 +194,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="最近学习CSS和CSS3" />
+    <option name="LAST_COMMIT_MESSAGE" value="最近学习CSS和CSS3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Roaming/Tencent/TIM/Temp/0R6]KFBYC~TXQTT6[RUF$2X.png" />
@@ -371,8 +327,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day09CSS3/01过渡动画基本使用.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="416">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/02数据类型转换.js" />
+    <entry file="file://$PROJECT_DIR$/day12/code/05-number数据类型.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/02数据类型转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/01js声明.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
